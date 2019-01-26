@@ -1,0 +1,14 @@
+{
+    "inputConnectionString": "mongodb://localhost:27017/",
+
+    "outputConnectionString": "mongodb://localhost:27017/",
+
+    "inputDb": "fromdb",
+
+    "outputDb": "todb",
+
+
+    "inputCollection": "coll1",
+
+    "outputCollection": "coll2"
+}
